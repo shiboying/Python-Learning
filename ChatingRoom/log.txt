@@ -1,0 +1,8 @@
+Client: [Sat Dec 04 16:28:33 2010] 
+ say
+Server: [Sat Dec 04 16:28:39 2010] 
+ hello
+Client: [Sat Dec 04 16:28:48 2010] 
+ glad to meet you
+Server: [Sat Dec 04 16:28:54 2010] 
+ glad to meet you too
